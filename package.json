@@ -1,0 +1,23 @@
+{
+  "name": "webassembly-basics",
+  "version": "1.0.0",
+  "description": "Hi! This is a small Repository for my First Web Assembly Project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priytosh-tripathi/WebAssembly-Basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priytosh-tripathi/WebAssembly-Basics/issues"
+  },
+  "homepage": "https://github.com/priytosh-tripathi/WebAssembly-Basics#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
